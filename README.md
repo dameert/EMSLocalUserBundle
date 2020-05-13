@@ -2,12 +2,6 @@ EMS Local User Bundle
 =====================
 A friendsofsymfony/user-bundle extension bundle for elasticms
 
-Requirements
-------------
-- php >= 7.1.3
-- symfony >= 4.1
-- elasticms/core-bundle >= 1.8
-
 Todo
 ----
 - FOSUserBundle deprecation [Issue 2803](https://github.com/FriendsOfSymfony/FOSUserBundle/issues/2803)
